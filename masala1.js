@@ -1,4 +1,4 @@
-1-misol g'ola yuzi
+// 1-misol g'ola yuzi
 a = Number(prompt("a:"))
 b = Number(prompt("b:"))
 h = Number(prompt("h:"))
